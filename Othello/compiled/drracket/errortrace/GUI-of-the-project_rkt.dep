@@ -1,0 +1,1 @@
+("6.8" ("0b83de17dfd2c3096c6a42bbbaaf948f923d2d96" . "8e6c1e672b1558a2445a1af6c63bca0d85a99b37") #"C:\\Users\\Sudhanshu raj\\Downloads\\Project\\AI-of-the-project.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))
